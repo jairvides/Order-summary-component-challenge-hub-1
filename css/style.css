@@ -1,0 +1,74 @@
+.container{
+  background-color: blue;
+  height: 1000px;
+  width: 95.7%;
+  margin: auto;
+
+}
+.hero{
+  position: relative;
+  bottom: 300px;
+  height: 700px;
+  width: 450px;
+  background-color: white;
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+}
+.heroimg{
+  border-radius: 10px 10px 0 0 ;
+}
+.one{
+  width: 70%;
+  text-align: center;
+  margin: 5px auto;
+}
+h1{
+  margin: 20px auto 0 auto;
+}
+.music-icon{
+  position: relative;
+  float:left;
+  top: 10px;
+  left: 10px;
+}
+.two{
+  margin: auto;
+  width: 70%;
+  background-color : red;
+  border-radius: 10px;
+}
+.annual-plan{
+  position: relative;
+  top: 15px;
+  right: 60px;
+}
+.chg{
+  position: relative;
+  bottom: 30px;
+  left: 100px;
+}
+.BUTTON_TNZ {
+  height: 10px;
+  width: 55%;
+  background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 30px;
+
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
